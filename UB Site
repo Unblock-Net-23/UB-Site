@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>UB</title>
+    <meta name="author" content="Potato90">
+    <meta name="keywords" content="UB, intro, tags">
+    <meta name="description" content="The Official UB Site">
+    <style type="text/css">
+      body {
+        color: teal;
+        background-color: black
+      }
+      h1 {
+        color: red;
+        text-align: center;
+      }
+      hr {
+        border: 4px
+        solid blue
+      }
+      p {
+        font-size: 200%;
+        border: 10px: border-style;
+        font-size: 200%;
+        border: 10px: border-style;
+      }
+    </style>
+  </head>
+   
+   <body>
+  <h1>
+  The UB Site
+  </h1>
+    <hr>
+    <p>
+    Welcome To The Official UB Site!
+    </p>
+    <p>
+    Have Fun At The Official UB Site!
+    </p>
+    <br>
+    <h4>
+    Links
+    </h4>
+    <ol>
+    <li><a href="youtube.com/@Unblock-Net/" target="_blank"><u>UB Channel</u></a></li>
+    <li><a href="sites.google.com/ecisd.school/unblock-net/backmore/" target="_blank"><u>Unblock Net 1</u></a></li>
+    <li><a href="sites.google.com/ecisd.school/unblock-net-2/home/" target="_blank"><u>Unblock Net 2</u></a></li>
+    </ol>
+    <br>
+    <h4>
+    Game Sites
+    </h4>
+    <ul>
+    <li><a href="sites.google.com/view/games-unblockedd/" target="_blank"><u>Unblocked Games Premium</u></a></li>
+    <li><a href="sites.google.com/ecisd.school/scratch-games/" target="_blank"><u>Scratch Games</u></a></li>
+    <li><a href="sites.google.com/site/tyroneunblockedgame/home/" target="_blank"><u>Tyrone Unblocked Games</u></a></li>
+    </ul>
+  </body>
+</html>
